@@ -1,0 +1,18 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "evaluation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rr"
+  ],
+  "author": "jitesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
